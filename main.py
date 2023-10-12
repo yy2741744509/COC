@@ -11,7 +11,7 @@ TarDarkElixirDrill = 0  # 最小目标暗黑重油
 SpoilsLoc = (100, 125, 450, 320)  # 进攻时可获取战利品的位置
 NextLoc = ("2186", "774")  # 进攻时搜索下一个对手的按钮的坐标
 EndLoc = ("210", "797")  # 进攻时结束战斗的坐标(目前暂时没有开发相关功能)
-AccessToken = "24.d9a4d2c9a37cb98464eb917421d0575f.2592000.1699582086.282335-40863585"  # 百度数字识别APIToken
+AccessToken = ""  # 百度数字识别APIToken
 
 
 def YouHaveFindIt():
